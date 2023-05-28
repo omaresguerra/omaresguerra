@@ -18,10 +18,10 @@
 
 ### :woman_technologist: About Me:
 
-I am a researcher, programmer, data analyst, and business analytics enthusiast working in the field of Machine Learning🤖, Artificial Intelliegence🧠, and Business Intelligence and Analytics📈!
+I am a researcher, programmer, data analyst, and business analytics enthusiast!
 
 - 🔭 I’m currently working as a Science Research Analyst in an academic institution in Tuguegarao City, Philippines
-- 🌱 I’m currently learning on Machine Learning, Artificial Intelligence, and Business Intelligence and Analytics
+- 🌱 I’m currently learning on the field of Machine Learning, Artificial Intelligence, and Business Intelligence and Analytics
 - 📫 How to reach me: Visit my website at <a href="https://omaresguerra.github.io/"> omaresguerra.github.io </a>
 <!-- - 👯 I’m looking to collaborate on Business Intelligence and Analytics
 - 📫 How to reach me: ...
