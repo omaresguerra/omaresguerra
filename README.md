@@ -47,7 +47,7 @@ I am a researcher, programmer, data analyst, and business analytics enthusiast!
 ---
 
 ### :fire: My Stats :
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omaresguerra)
+![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omaresguerra&card_width=400)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=omaresguerra&card_width=400)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omaresguerra&layout=compact)
