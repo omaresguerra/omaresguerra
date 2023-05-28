@@ -47,5 +47,5 @@ I am a researcher, programmer, data analyst, and business analytics enthusiast w
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=omaresguerra)](https://git.io/streak-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omaresguerra&layout=compact)](https://github.com/omaresguerra/github-readme-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=omaresguerra)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omaresguerra&layout=compact)
