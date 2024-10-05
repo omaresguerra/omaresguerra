@@ -18,7 +18,7 @@
 
 ### About Me:
 
-I am a researcher, programmer, data analyst, and business analytics enthusiast!
+I am an educator, researcher, programmer, data analyst, and business analytics enthusiast!
 
 - 🔭 I’m currently working as a Science Research Analyst in an academic institution in Tuguegarao City, Philippines
 - 🌱 I’m currently learning on the field of Machine Learning, Artificial Intelligence, and Business Intelligence and Analytics
